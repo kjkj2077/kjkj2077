@@ -20,10 +20,11 @@
 
 <br/>
 <h2>Contact</h2>
+<div>
 <a href="http://kjkj2077.github.io"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=http://kjkj2077.github.io"/></a>
+<a href="https://www.instagram.com/jinkyu_ko/" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:kjkj2077@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kjkj2077@naver.com"/></a>
+</div>
 
-<a href="https://www.instagram.com/jinkyu_ko/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-
-<a href="mailto:kjkj2077@gnaver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kjkj2077@naver.com"/></a>
 
 	
